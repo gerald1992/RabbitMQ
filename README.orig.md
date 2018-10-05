@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PHP code for RabbitMQ tutorials
 
 Here you can find PHP code examples from [RabbitMQ
@@ -63,3 +64,6 @@ inside this project folder:
 
     php rpc_server.php
     php rpc_client.php
+=======
+# RabbitMQ
+>>>>>>> a5c30da2dff3f00d44df4d50c8697e99b07e6777
